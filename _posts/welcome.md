@@ -1,0 +1,10 @@
+---
+title: Welcome to the Site
+date: 2025-02-16 12:00:00
+categories : [welome,tech]
+tags: [welcome,thoughts]
+---
+# Welcome
+
+Hello and welcome to the site it is great to have you all here. Please check out my various post on work that i've completed on various technology subjects. 
+
