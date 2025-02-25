@@ -54,7 +54,7 @@ There are many other switches/variables you can use with this command read more 
 - enter the following in terminal 
 	- ```apt install zsh```
 ### Install oh my zsh
-- refer to the [documentation]([Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/#install)) for the latest install script usually use curl
+- refer to the [documentation]([Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh)) for the latest install script usually use curl
 
 You are all done setting up your Windows Machine with WSL, using Ubuntu and ZSH. 
 
