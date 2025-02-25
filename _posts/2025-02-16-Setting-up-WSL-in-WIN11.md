@@ -50,9 +50,11 @@ There are many other switches/variables you can use with this command read more 
 ```sudo apt-get update ```
 - the ```sudo apt-get upgrade```
 - agree when asked
+
 ### Installing ZSH (optional)
 - enter the following in terminal 
 	- ```apt install zsh```
+
 ### Install oh my zsh
 - refer to the [documentation](https://ohmyz.sh) for the latest install script usually use curl
 
