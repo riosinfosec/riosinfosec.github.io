@@ -5,4 +5,12 @@ categories : [welome,tech]
 tags: [welcome,thoughts]
 ---
 
-Let see where do we start
+# Its 2025 Do I really need a website?
+
+The simple answer is yes. Even one as simple as this especially if you want to showcase your knowleddge. A great place to display what you know. A portfolio of sorts. 
+
+# Creating a Website using git hub pages
+
+> there are many ways to install WSL this is the one I choose based on documentation from Microsoft.
+{: .prompt-tip }
+
