@@ -11,6 +11,9 @@ The simple answer is yes. Even one as simple as this especially if you want to s
 
 # Creating a Website using git hub pages
 
-> there are many ways to install WSL this is the one I choose based on documentation from Microsoft.
-{: .prompt-tip }
+There are many tutorials already out there I went agead and followed the one from Techno Tim which can be found (here)[https://technotim.live/posts/jekyll-docs-site/].
+
+After followig along to his tutorial you will have a great looking website to use for your documentation or portfolio.
+
+Till Next time. 
 
